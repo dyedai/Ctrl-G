@@ -1,7 +1,7 @@
 Unity Play (play on website) : https://play.unity.com/en/games/e7913ec9-3018-4d65-a75a-c7e9f0880e3f/ctrlg
 A downloadable game for Windows : https://dyedai.itch.io/ctrlg
 
-"Ctrl+G" is a 3D action-puzzle game in which players explore mysterious stages floating in space, aiming for the gate of each area.
+#"Ctrl+G" is a 3D action-puzzle game in which players explore mysterious stages floating in space, aiming for the gate of each area.
 Players have the special ability to switch the gravity acting on themselves at will, making full use of the three gravity modes to break through unknown gimmicks and obstacles.
 
 <Game Features>
